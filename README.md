@@ -1,4 +1,1 @@
-# Sbulime Text
-
-## Config file for sublime text
-auto sync the configration file for sublime test
+# How to use microsof visual studio code in daily develop
